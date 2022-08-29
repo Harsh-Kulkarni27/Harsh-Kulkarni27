@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Advanced Port Scanner**
 
-- 🌱 I’m currently learning **Linux 101, Networking Essentials, Ethical Hacking, Malware Analysis**
+- 🌱 I’m currently learning **Networking Essentials, Ethical Hacking, Malware Analysis**
 
 - 📫 How to reach me **harsh27103@gmail.com, https://www.linkedin.com/in/harsh-kulkarni-87536b152**
 
